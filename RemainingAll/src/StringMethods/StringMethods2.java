@@ -21,7 +21,7 @@ public class StringMethods2 {
 		//10.tostring()=====string as it is
 		System.out.println(w.toString());
 		
-		System.out.println("all done");
+	System.out.println("ahjaahash");
 		
 	
 		
