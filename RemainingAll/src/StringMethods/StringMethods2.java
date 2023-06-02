@@ -23,6 +23,8 @@ public class StringMethods2 {
 		
 		System.out.println("all done");
 		
+		System.out.println("all done");
+		
 		
 		
 	
